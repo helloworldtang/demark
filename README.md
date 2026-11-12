@@ -12,8 +12,10 @@
 ## 安装
 
 ```bash
-pip install demark
+pip install demark-cli
 ```
+
+（PyPI 包名是 `demark-cli`，安装后的命令名是 `demark`。）
 
 系统依赖（必须单独安装）：ffmpeg/ffprobe。
 

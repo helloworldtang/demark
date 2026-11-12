@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "demark"
+name = "demark-cli"
 version = "0.1.0"
 description = "去水印 CLI：图片 inpaint + 视频 delogo，覆盖会议截图/网课/网络视频/AI 图四场景。Watermark removal CLI: OpenCV inpainting for images, ffmpeg delogo for videos."
 readme = "README.md"
